@@ -1,0 +1,6 @@
+streamlit
+openai
+rdkit
+numpy
+pyvista
+requests

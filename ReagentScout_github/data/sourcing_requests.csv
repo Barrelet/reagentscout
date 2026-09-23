@@ -1,0 +1,2 @@
+timestamp_utc,session_id,event_type,molecule_name,smiles,cas_number,region,user_type,quantity,purity,intended_use,contact_email,institution,notes,risk_level
+2026-07-03T06:43:45.398705+00:00,e07f49b5-41da-421d-8644-a15dfcd8b815,sourcing_request_submitted,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,Switzerland,Professional,Not sure,97%+,Research,balbla@gmail.com,UofT,,standard

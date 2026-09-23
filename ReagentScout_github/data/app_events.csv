@@ -1,0 +1,92 @@
+timestamp_utc,session_id,event_type,molecule_name,smiles,cas_number,region,user_type,quantity,risk_level
+2026-07-03T05:56:14.954685+00:00,f4ccf936-fdc8-4b40-94ef-7aa100271767,supplier_tab_viewed,Acetaminophen,,,Switzerland,Student,Not sure,
+2026-07-03T05:56:24.408619+00:00,f4ccf936-fdc8-4b40-94ef-7aa100271767,supplier_tab_viewed,Acetaminophen,CC(=O)NC1=CC=C(C=C1)O,103-90-2,Switzerland,Student,Not sure,
+2026-07-03T05:56:33.606605+00:00,f4ccf936-fdc8-4b40-94ef-7aa100271767,supplier_tab_viewed,Acetaminophen,CC(=O)NC1=CC=C(C=C1)O,103-90-2,Switzerland,Professional,Not sure,
+2026-07-03T05:58:31.278025+00:00,a5d0721e-222e-4fb3-af81-bf11b5819a26,supplier_tab_viewed,Ibuprofen,,,Switzerland,Student,Not sure,
+2026-07-03T05:58:42.193300+00:00,a5d0721e-222e-4fb3-af81-bf11b5819a26,supplier_tab_viewed,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,58560-75-1,Switzerland,Student,Not sure,
+2026-07-03T05:58:56.397114+00:00,a5d0721e-222e-4fb3-af81-bf11b5819a26,supplier_tab_viewed,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,58560-75-1,Switzerland,Professional,Not sure,
+2026-07-03T06:02:25.349756+00:00,e557c23f-0dd7-4e9e-81cb-e25182aebe65,supplier_tab_viewed,Acetylsalicylic acid,,,Switzerland,Student,Not sure,
+2026-07-03T06:02:39.771977+00:00,e557c23f-0dd7-4e9e-81cb-e25182aebe65,supplier_tab_viewed,Acetylsalicylic acid,CC(=O)Oc1ccccc1C(=O)O,,Switzerland,Hobbyist,Not sure,
+2026-07-03T06:02:46.444966+00:00,e557c23f-0dd7-4e9e-81cb-e25182aebe65,supplier_tab_viewed,Acetylsalicylic acid,CC(=O)Oc1ccccc1C(=O)O,,Switzerland,Professional,Not sure,
+2026-07-03T06:05:17.293482+00:00,00b858b6-9795-44a7-8f8a-2bfff2936f7b,supplier_tab_viewed,Guanine,,,Switzerland,Student,Not sure,
+2026-07-03T06:05:36.129896+00:00,00b858b6-9795-44a7-8f8a-2bfff2936f7b,supplier_tab_viewed,Guanine,C1=NC2=C(N1)C(=O)NC(=N2)N,73-40-5,Switzerland,Student,Not sure,
+2026-07-03T06:05:46.648084+00:00,00b858b6-9795-44a7-8f8a-2bfff2936f7b,supplier_tab_viewed,Guanine,C1=NC2=C(N1)C(=O)NC(=N2)N,73-40-5,Switzerland,Professional,Not sure,
+2026-07-03T06:08:34.824990+00:00,b485499a-27ee-4b50-b95f-278c15cf0136,supplier_tab_viewed,Acetaminophen,,,Switzerland,Student,Not sure,
+2026-07-03T06:08:50.195356+00:00,b485499a-27ee-4b50-b95f-278c15cf0136,supplier_tab_viewed,Acetaminophen,CC(=O)NC1=CC=C(C=C1)O,103-90-2,Switzerland,Student,Not sure,
+2026-07-03T06:09:03.713638+00:00,b485499a-27ee-4b50-b95f-278c15cf0136,supplier_tab_viewed,Acetaminophen,CC(=O)NC1=CC=C(C=C1)O,103-90-2,Switzerland,Professional,Not sure,
+2026-07-03T06:11:56.453777+00:00,f1671344-23ff-48ff-a739-51593c76c0d4,supplier_tab_viewed,Cholesterol,,,Switzerland,Student,Not sure,
+2026-07-03T06:11:56.454647+00:00,f1671344-23ff-48ff-a739-51593c76c0d4,supplier_links_blocked,Cholesterol,,,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:12:20.839527+00:00,f1671344-23ff-48ff-a739-51593c76c0d4,supplier_tab_viewed,Cholesterol,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C,57-88-5,Switzerland,Student,Not sure,
+2026-07-03T06:12:20.840274+00:00,f1671344-23ff-48ff-a739-51593c76c0d4,supplier_links_blocked,Cholesterol,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C,57-88-5,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:12:32.103869+00:00,f1671344-23ff-48ff-a739-51593c76c0d4,supplier_tab_viewed,Cholesterol,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C,57-88-5,Switzerland,Professional,Not sure,
+2026-07-03T06:13:28.589695+00:00,f1671344-23ff-48ff-a739-51593c76c0d4,supplier_tab_viewed,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Professional,Not sure,
+2026-07-03T06:13:55.063502+00:00,f1671344-23ff-48ff-a739-51593c76c0d4,supplier_tab_viewed,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Student,Not sure,
+2026-07-03T06:13:55.064178+00:00,f1671344-23ff-48ff-a739-51593c76c0d4,supplier_links_blocked,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Student,Not sure,blocked
+2026-07-03T06:18:11.327937+00:00,21620ee5-6e59-495b-a04e-bea510923466,supplier_tab_viewed,Toluene,,,Switzerland,Student,Not sure,
+2026-07-03T06:18:11.329589+00:00,21620ee5-6e59-495b-a04e-bea510923466,supplier_links_blocked,Toluene,,,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:18:24.419356+00:00,21620ee5-6e59-495b-a04e-bea510923466,supplier_tab_viewed,Toluene,CC1=CC=CC=C1,108-88-3,Switzerland,Student,Not sure,
+2026-07-03T06:18:24.420141+00:00,21620ee5-6e59-495b-a04e-bea510923466,supplier_links_blocked,Toluene,CC1=CC=CC=C1,108-88-3,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:18:37.454202+00:00,21620ee5-6e59-495b-a04e-bea510923466,supplier_tab_viewed,Toluene,CC1=CC=CC=C1,108-88-3,Switzerland,Professional,Not sure,
+2026-07-03T06:22:45.349249+00:00,8c774e96-6e09-4d8f-bbbc-1fefdc578801,supplier_tab_viewed,Benzene,,,Switzerland,Student,Not sure,
+2026-07-03T06:22:45.350864+00:00,8c774e96-6e09-4d8f-bbbc-1fefdc578801,supplier_links_blocked,Benzene,,,Switzerland,Student,Not sure,blocked
+2026-07-03T06:22:57.310937+00:00,8c774e96-6e09-4d8f-bbbc-1fefdc578801,supplier_tab_viewed,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Student,Not sure,
+2026-07-03T06:22:57.311613+00:00,8c774e96-6e09-4d8f-bbbc-1fefdc578801,supplier_links_blocked,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Student,Not sure,blocked
+2026-07-03T06:23:12.131629+00:00,8c774e96-6e09-4d8f-bbbc-1fefdc578801,supplier_tab_viewed,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Professional,Not sure,
+2026-07-03T06:34:43.787094+00:00,0fb57c9e-7146-4201-8048-307bcf111f78,supplier_tab_viewed,benzene,,,Switzerland,Student,Not sure,
+2026-07-03T06:34:43.788311+00:00,0fb57c9e-7146-4201-8048-307bcf111f78,supplier_links_blocked,benzene,,,Switzerland,Student,Not sure,blocked
+2026-07-03T06:35:00.001498+00:00,0fb57c9e-7146-4201-8048-307bcf111f78,supplier_tab_viewed,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Student,Not sure,
+2026-07-03T06:35:00.002510+00:00,0fb57c9e-7146-4201-8048-307bcf111f78,supplier_links_blocked,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Student,Not sure,blocked
+2026-07-03T06:35:45.896170+00:00,0fb57c9e-7146-4201-8048-307bcf111f78,supplier_tab_viewed,benzene,C1=CC=CC=C1,71-43-2,Switzerland,Professional,Not sure,
+2026-07-03T06:42:48.881949+00:00,e07f49b5-41da-421d-8644-a15dfcd8b815,supplier_tab_viewed,Caffeine,,,Switzerland,Student,Not sure,
+2026-07-03T06:42:48.882901+00:00,e07f49b5-41da-421d-8644-a15dfcd8b815,supplier_links_blocked,Caffeine,,,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:43:04.239880+00:00,e07f49b5-41da-421d-8644-a15dfcd8b815,supplier_tab_viewed,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,Switzerland,Student,Not sure,
+2026-07-03T06:43:04.240842+00:00,e07f49b5-41da-421d-8644-a15dfcd8b815,supplier_links_blocked,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:43:13.198843+00:00,e07f49b5-41da-421d-8644-a15dfcd8b815,supplier_tab_viewed,Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,58-08-2,Switzerland,Professional,Not sure,
+2026-07-03T06:50:43.073219+00:00,3f02914a-28e7-42e8-bf0b-41ad403d430a,supplier_tab_viewed,Guanine,,,Switzerland,Student,Not sure,
+2026-07-03T06:50:43.074134+00:00,3f02914a-28e7-42e8-bf0b-41ad403d430a,supplier_links_blocked,Guanine,,,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:50:54.690365+00:00,3f02914a-28e7-42e8-bf0b-41ad403d430a,supplier_tab_viewed,guanine,C1=NC2=C(N1)C(=O)NC(=N2)N,73-40-5,Switzerland,Student,Not sure,
+2026-07-03T06:50:54.691310+00:00,3f02914a-28e7-42e8-bf0b-41ad403d430a,supplier_links_blocked,guanine,C1=NC2=C(N1)C(=O)NC(=N2)N,73-40-5,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:51:08.653435+00:00,3f02914a-28e7-42e8-bf0b-41ad403d430a,supplier_tab_viewed,guanine,C1=NC2=C(N1)C(=O)NC(=N2)N,73-40-5,Switzerland,Professional,Not sure,
+2026-07-03T06:53:35.510706+00:00,df2251ff-6220-4ef2-8c5a-83859b77b776,supplier_tab_viewed,Guanine,,,Switzerland,Student,Not sure,
+2026-07-03T06:53:35.511822+00:00,df2251ff-6220-4ef2-8c5a-83859b77b776,supplier_links_blocked,Guanine,,,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:53:57.577660+00:00,df2251ff-6220-4ef2-8c5a-83859b77b776,supplier_tab_viewed,Guanine,C1=NC2=C(N1)C(=O)NC(=N2)N,73-40-5,Switzerland,Student,Not sure,
+2026-07-03T06:53:57.578668+00:00,df2251ff-6220-4ef2-8c5a-83859b77b776,supplier_links_blocked,Guanine,C1=NC2=C(N1)C(=O)NC(=N2)N,73-40-5,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:54:07.197520+00:00,df2251ff-6220-4ef2-8c5a-83859b77b776,supplier_tab_viewed,Guanine,C1=NC2=C(N1)C(=O)NC(=N2)N,73-40-5,Switzerland,Professional,Not sure,
+2026-07-03T06:58:22.661653+00:00,4714ada6-9e7b-445a-b8b0-7ef8d28e5b71,supplier_tab_viewed,Ibuprofen,,,Switzerland,Student,Not sure,
+2026-07-03T06:58:22.662576+00:00,4714ada6-9e7b-445a-b8b0-7ef8d28e5b71,supplier_links_blocked,Ibuprofen,,,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:58:34.392327+00:00,4714ada6-9e7b-445a-b8b0-7ef8d28e5b71,supplier_tab_viewed,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,58560-75-1,Switzerland,Student,Not sure,
+2026-07-03T06:58:34.393193+00:00,4714ada6-9e7b-445a-b8b0-7ef8d28e5b71,supplier_links_blocked,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,58560-75-1,Switzerland,Student,Not sure,educational_only
+2026-07-03T06:58:45.270872+00:00,4714ada6-9e7b-445a-b8b0-7ef8d28e5b71,supplier_tab_viewed,Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,58560-75-1,Switzerland,Professional,Not sure,
+2026-07-03T07:09:04.715011+00:00,06d8af2f-4ccb-403c-b8df-d735eaef3b02,supplier_tab_viewed,Benzene,,,Switzerland,Student,Not sure,
+2026-07-03T07:09:04.716832+00:00,06d8af2f-4ccb-403c-b8df-d735eaef3b02,supplier_links_blocked,Benzene,,,Switzerland,Student,Not sure,blocked
+2026-07-03T07:09:16.964473+00:00,06d8af2f-4ccb-403c-b8df-d735eaef3b02,supplier_tab_viewed,Benzene,C1=CC=CC=C1,71-43-2,Switzerland,Student,Not sure,
+2026-07-03T07:09:16.965413+00:00,06d8af2f-4ccb-403c-b8df-d735eaef3b02,supplier_links_blocked,Benzene,C1=CC=CC=C1,71-43-2,Switzerland,Student,Not sure,blocked
+2026-07-03T07:09:31.394992+00:00,06d8af2f-4ccb-403c-b8df-d735eaef3b02,supplier_tab_viewed,Benzene,C1=CC=CC=C1,71-43-2,Switzerland,Professional,Not sure,
+2026-08-16T11:35:17.305505+00:00,ee2f8be5-7283-4aef-805d-cb5c6e5ce5e8,supplier_tab_viewed,Cubane,,,Switzerland,Student,Not sure,
+2026-08-16T11:35:17.307777+00:00,ee2f8be5-7283-4aef-805d-cb5c6e5ce5e8,supplier_links_blocked,Cubane,,,Switzerland,Student,Not sure,educational_only
+2026-08-16T11:35:44.182251+00:00,ee2f8be5-7283-4aef-805d-cb5c6e5ce5e8,supplier_tab_viewed,Cubane,C12C3C4C1C5C2C3C45,277-10-1,Switzerland,Student,Not sure,
+2026-08-16T11:35:44.183125+00:00,ee2f8be5-7283-4aef-805d-cb5c6e5ce5e8,supplier_links_blocked,Cubane,C12C3C4C1C5C2C3C45,277-10-1,Switzerland,Student,Not sure,educational_only
+2026-08-16T11:36:23.733623+00:00,ee2f8be5-7283-4aef-805d-cb5c6e5ce5e8,supplier_tab_viewed,Cubane,C12C3C4C1C5C2C3C45,277-10-1,US,Student,Not sure,
+2026-08-16T11:36:23.734792+00:00,ee2f8be5-7283-4aef-805d-cb5c6e5ce5e8,supplier_links_blocked,Cubane,C12C3C4C1C5C2C3C45,277-10-1,US,Student,Not sure,educational_only
+2026-08-16T11:36:29.024073+00:00,ee2f8be5-7283-4aef-805d-cb5c6e5ce5e8,supplier_tab_viewed,Cubane,C12C3C4C1C5C2C3C45,277-10-1,US,Teacher,Not sure,
+2026-08-16T11:36:34.625432+00:00,ee2f8be5-7283-4aef-805d-cb5c6e5ce5e8,supplier_tab_viewed,Cubane,C12C3C4C1C5C2C3C45,277-10-1,US,Teacher,mg,
+2026-09-03T10:33:39.580476+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_tab_viewed,Acetaminophen,,,Switzerland,Student,Not sure,
+2026-09-03T10:33:39.582757+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_links_blocked,Acetaminophen,,,Switzerland,Student,Not sure,educational_only
+2026-09-03T10:33:51.617890+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_tab_viewed,Acetaminophen,CC(=O)NC1=CC=C(C=C1)O,103-90-2,Switzerland,Student,Not sure,
+2026-09-03T10:33:51.618856+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_links_blocked,Acetaminophen,CC(=O)NC1=CC=C(C=C1)O,103-90-2,Switzerland,Student,Not sure,educational_only
+2026-09-03T12:27:05.504955+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_tab_viewed,cubane,C12C3C4C1C5C2C3C45,277-10-1,Switzerland,Student,Not sure,
+2026-09-03T12:27:05.507664+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_links_blocked,cubane,C12C3C4C1C5C2C3C45,277-10-1,Switzerland,Student,Not sure,educational_only
+2026-09-03T12:30:28.615506+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_tab_viewed,Paclitaxel,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C,33069-62-4,Switzerland,Student,Not sure,
+2026-09-03T12:30:28.616449+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_links_blocked,Paclitaxel,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C,33069-62-4,Switzerland,Student,Not sure,educational_only
+2026-09-03T12:31:22.442840+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_tab_viewed,Rhodamine B,CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O.[Cl-],81-88-9,Switzerland,Student,Not sure,
+2026-09-03T12:31:22.443928+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_links_blocked,Rhodamine B,CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=CC=CC=C4C(=O)O.[Cl-],81-88-9,Switzerland,Student,Not sure,educational_only
+2026-09-03T12:36:05.108411+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_tab_viewed,5-Aminofluorescein,C1=CC2=C(C=C1N)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O,3326-34-9,Switzerland,Student,Not sure,
+2026-09-03T12:36:05.109584+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_links_blocked,5-Aminofluorescein,C1=CC2=C(C=C1N)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O,3326-34-9,Switzerland,Student,Not sure,educational_only
+2026-09-03T12:36:42.264848+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_tab_viewed,5-Aminofluorescein,C1=CC2=C(C=C1N)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O,3326-34-9,Switzerland,Professional,Not sure,
+2026-09-03T12:36:44.657834+00:00,c9818086-d519-4ac8-811a-29debeea2315,supplier_tab_viewed,5-Aminofluorescein,C1=CC2=C(C=C1N)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O,3326-34-9,Switzerland,Professional,mg,
+2026-09-22T07:57:22.563881+00:00,142499b9-79b3-48c9-ae1a-861b6c4cebd1,supplier_tab_viewed,Piperine,,,Switzerland,Student,Not sure,
+2026-09-22T07:57:22.566058+00:00,142499b9-79b3-48c9-ae1a-861b6c4cebd1,supplier_links_blocked,Piperine,,,Switzerland,Student,Not sure,educational_only
+2026-09-22T07:59:11.144164+00:00,142499b9-79b3-48c9-ae1a-861b6c4cebd1,supplier_tab_viewed,Piperine,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3,94-62-2,Switzerland,Student,Not sure,
+2026-09-22T07:59:11.145148+00:00,142499b9-79b3-48c9-ae1a-861b6c4cebd1,supplier_links_blocked,Piperine,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3,94-62-2,Switzerland,Student,Not sure,educational_only
+2026-09-22T08:00:56.811464+00:00,142499b9-79b3-48c9-ae1a-861b6c4cebd1,supplier_tab_viewed,Piperine,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3,94-62-2,Switzerland,Professional,Not sure,
+2026-09-22T08:01:07.505874+00:00,142499b9-79b3-48c9-ae1a-861b6c4cebd1,supplier_tab_viewed,Piperine,C1CCN(CC1)C(=O)/C=C/C=C/C2=CC3=C(C=C2)OCO3,94-62-2,Switzerland,Professional,kg,
