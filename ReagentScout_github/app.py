@@ -1,4 +1,5 @@
-OPENAI_API_KEY = ""
+OPENAI_API_KEY = "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"
+
 
 import streamlit as st
 from openai import OpenAI
